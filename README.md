@@ -40,7 +40,9 @@
 <br />
 
 ## 🤝🏻 Contact Me
+<p align="left">  
   <a href="https://www.twitter.com/rzdzaky/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50"/></a>  
   <a href="https://www.instagram.com/rzdzaky/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="50"/>
   <a href="mailto:dzakyrz25@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="50"/></a>
+</p>
 
