@@ -22,6 +22,11 @@
 
   <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdzaky&layout=compact&theme=midnight-purple" src="https://github.com/rzdzaky/github-readme-stats&theme=midnight-purple "/>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 🤝🏻 Contact Me
 <p align="left">  
