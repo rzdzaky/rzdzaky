@@ -1,14 +1,14 @@
 ### Hi there, I'm Dzaki Rozaan. 👋
 
 
-# 👨🏻‍💻 About Me
+# 👨‍💼 About Me
 
 - 🏫 College Student of Amikom University Yk
 - ✍️ Information System Bachelor's Degree
 - 💼 Backend Developer
 - 🎧 Lofi Music Lover 
 
-# 🛠 Tools & Language
+# 🛠 Tools & Languages
 - 💻   Python | C++ | Kotlin | PHP
 - 🌐   Codeigniter | Laravel | Django
 - 🛢    MySQL | SQLite | Laragon 
