@@ -17,6 +17,9 @@
 <br />
 
   <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rzdzaky&show_icons=true&theme=radical)" />
+
+<br />
+
   <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdzaky&layout=compact)](https://github.com/rzdzaky/github-readme-stats)" />
 
 <br />
