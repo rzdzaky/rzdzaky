@@ -27,7 +27,7 @@
 <br />
 <br />
 
-  <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdzaky&langs_count=8)](https://github.com/rzdzaky/github-readme-stats)" />
+  <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
 
 <br />
 
