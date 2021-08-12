@@ -36,7 +36,6 @@
 <br />
 <br />
 <br />
-<br />
 
 # 🤝🏻 Contact Me
 <p align="left">  
