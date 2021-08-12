@@ -18,11 +18,10 @@
 
   <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rzdzaky&show_icons=true&theme=midnight-purple" />
 
-<br>
+</br>
 
   <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdzaky&layout=compact&theme=midnight-purple" src="https://github.com/rzdzaky/github-readme-stats&theme=midnight-purple "/>
 
-<br>
 
 ## 🤝🏻 Contact Me
 <p align="left">  
