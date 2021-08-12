@@ -30,11 +30,18 @@
   <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzdzaky&layout=compact&theme=midnight-purple" src="https://github.com/rzdzaky/github-readme-stats&theme=midnight-purple "/>
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # 🤝🏻 Contact Me
 <p align="left">  
-  <a href="https://www.twitter.com/rzdzaky/"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>  
-  <a href="https://www.instagram.com/rzdzaky/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
-  <a href="mailto:dzakyrz25@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a href="https://www.twitter.com/rzdzaky/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>  
+  <a href="https://www.instagram.com/rzdzaky/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
+  <a href="mailto:dzakyrz25@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </p>
 
