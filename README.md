@@ -16,15 +16,9 @@
 
 <br />
 
-<details>
-  <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rzdzaky&show_icons=true&theme=radical)
-" />
-  
-
-</details>
+  <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rzdzaky&show_icons=true&theme=radical)" />
 
 🤝🏻 Contact Me
 [twitter]: https://twitter.com/rzdzaky
+<br />
 [instagram]: https://instagram.com/rzdzaky
-[<img align="left" alt="rzdzaky | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rzdzaky | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
