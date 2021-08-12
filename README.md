@@ -1,14 +1,14 @@
-<h2>Hi there, I'm Dzaki Rozaan. 👋</h3>
+# Hi there, I'm Dzaki Rozaan. 👋
 
 
-<h3>👨‍💼 About Me</h3>
+## 👨‍💼 About Me
 
 - 🏫 College Student of Amikom University Yk
 - ✍️ Information System Bachelor's Degree
 - 💼 Backend Developer
 - 🎧 Lofi Music Lover 
 
-<h3>🛠 Tools & Languages</h3>
+## 🛠 Tools & Languages
 - 💻   Python | C++ | Kotlin | PHP
 - 🌐   Codeigniter | Laravel | Django
 - 🛢    MySQL | SQLite | Laragon 
@@ -24,7 +24,7 @@
 
 <br>
 
-<h3>🤝🏻 Contact Me</h3>
+## 🤝🏻 Contact Me
 <p align="left">  
   <a href="https://www.twitter.com/rzdzaky/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50"/></a>  
   <a href="https://www.instagram.com/rzdzaky/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="50"/>
