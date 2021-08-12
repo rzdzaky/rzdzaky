@@ -16,7 +16,7 @@
 
 <br />
 
-  <img align="left" alt="rzdzaky's GitHub Stats" src="//github-readme-stats.vercel.app/api?username=rzdzaky&theme=dark&show_icons=true" />
+  <img align="left" alt="rzdzaky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rzdzaky&show_icons=true&theme=dark" />
 
 <br />
 <br />
