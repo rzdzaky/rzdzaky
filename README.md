@@ -9,7 +9,7 @@
 
 <h3> 🛠 Tools & Languages </h3>
 
-- 💻   Python | C++ | Kotlin | PHP
+- 💻   Python | JavaScript | PHP
 - 🌐   Codeigniter | Laravel | Django
 - 🛢    MySQL | SQLite | Laragon 
 - 🔧   VSCode | AndroidStudio | Git 
