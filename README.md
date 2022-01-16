@@ -4,15 +4,15 @@
 
 - 🏫 College Student of Amikom University Yk
 - ✍️ Information System Bachelor's Degree
-- 💼 Backend Developer
+- 💼 FullStack Javascript
 - 🎧 Lofi Music Lover 
 
 <h3> 🛠 Tools & Languages </h3>
 
-- 💻   Python | JavaScript | PHP
-- 🌐   Codeigniter | Laravel | Django
-- 🛢    MySQL | SQLite | Laragon 
-- 🔧   VSCode | AndroidStudio | Git 
+- 💻   Javascript | PHP | Python
+- 🌐   ReactJS | NodeJS | Laravel
+- 🛢    MySQL | MongoDB | Firebase 
+- 🔧   VSCode | AndroidStudio  
 
 <br>
 
