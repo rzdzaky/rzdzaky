@@ -16,6 +16,11 @@
 
 <br>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rzdzaky&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&theme=midnight-purple" alt="rzdzaky's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzdzaky&layout=compact&&theme=midnight-purple)](https://github.com/rzdzaky?tab=repositories)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
